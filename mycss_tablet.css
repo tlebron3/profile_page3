@@ -1,0 +1,43 @@
+@media print {
+
+    .screen_only {
+        display: none;
+    }
+}
+
+@media (max-width:640px){
+    body{
+        background-color: grey;
+    }
+}
+
+@media (min-width:641px)  and (max-width:768px) {
+    body{
+       background-color: black;
+    }
+}
+
+@media(min-width:769px) {
+    body{
+        background-color:gold;
+    }
+}
+
+.center {
+
+    text-align:center;
+    color: white;
+}
+
+#para2 {
+    text-align: right;
+    color:purple;
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+}
+
+
+

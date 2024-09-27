@@ -1,0 +1,20 @@
+h1{
+   
+    text-align: center;
+    background-color: red;
+    color: brown;
+ } 
+ .menu-color {
+     text-align: center;
+     color: darkblue;
+  }
+  
+ #para1 {
+     text-align: center;
+     color:aquamarine;
+  }
+ 
+ a {
+    text-align: center;
+    font-size: large;
+ }
